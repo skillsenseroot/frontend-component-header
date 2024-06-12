@@ -1,5 +1,5 @@
 {
-  "name": "@skillsenseai/frontend-component-header",
+  "name": "@skillsenseroot/frontend-component-header",
   "version": "1.0.0",
   "description": "The standard header for Skillsense",
   "main": "dist/index.js",
@@ -24,16 +24,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skillsenseai/frontend-component-header.git"
+    "url": "git+https://github.com/skillsenseroot/frontend-component-header.git"
   },
   "author": "edX",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/skillsenseai/frontend-component-header/issues"
+    "url": "https://github.com/skillsenseroot/frontend-component-header/issues"
   },
-  "homepage": "https://github.com/skillsenseai/frontend-component-header#readme",
+  "homepage": "https://github.com/skillsenseroot/frontend-component-header#readme",
   "devDependencies": {
-    "@skillsenseai/brand": "git+https://github.com/skillsenseai/brand-skillsense.git@^1.0.0",
+    "@edx/brand": "git+https://github.com/skillsenseroot/brand-skillsense.git",
     "@edx/browserslist-config": "^1.1.1",
     "@edx/frontend-platform": "8.0.4",
     "@edx/reactifex": "^2.1.1",
