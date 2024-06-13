@@ -1,5 +1,5 @@
 {
-  "name": "@skillsenseroot/frontend-component-header",
+  "name": "@edx/frontend-component-header",
   "version": "1.0.0",
   "description": "The standard header for Skillsense",
   "main": "dist/index.js",
@@ -67,7 +67,7 @@
     "react-transition-group": "4.4.5"
   },
   "peerDependencies": {
-    "@edx/frontend-platform": "^7.0.0 || ^8.0.0",
+    "@edx/frontend-platform": "^5.0.0 || ^7.0.0 || ^8.0.0",
     "@openedx/paragon": ">= 21.5.7 < 23.0.0",
     "prop-types": "^15.5.10",
     "react": "^16.9.0 || ^17.0.0",
